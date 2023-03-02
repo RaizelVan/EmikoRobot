@@ -25,7 +25,7 @@
 - Anda cukup mengubah nama github di tautan penerapan dan selesai, repo dapat diterapkan di heroku.
 - Tutorial Lengkap - [ ! [Tutorial Lengkap] (https://img.shields.io/badge/Watch%20Now-blue) ] (https://youtu.be/GMaYMYhf_Vk)
 
-< p align = "center" >< a href = " https://dashboard.heroku.com/new?template=https://github.com/RaizelVan/EmikoRobot " > < img
+< p align = "center" >< a href = " https://dashboard.heroku.com/new?template=https://github.com/RaizelVan/EmikoRobot" > < img
 src=" https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=flat&logo=heroku " width="210" height="34.45" /> </a></p>
 
 
